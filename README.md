@@ -27,5 +27,4 @@ Well there are small issues that needs to be addressed, but for a first draft it
 
 This theme is also provided in [Gnome-look.org](https://www.opendesktop.org/p/1247470/)
 
-![s](https://cn.pling.com/img/9/e/7/e/7184c88b809d94f3a0405d6b6a9baccd01bf.jpg)
-![s](https://cn.pling.com/img/9/9/e/3/886fb6699caf951a754d0cd74f534d302efa.jpg)
+![s](https://cn.pling.com/img/a/7/3/7/249b4b19d06a765b6e541131122c366cc63a.jpg)
