@@ -1,7 +1,7 @@
 # McOS-Mint-Cinnamon-Edition
 A specially design version of McOS for the **Linux Mint Cinnamon 19.**
 
-##new:
+## new:
 
 Version 2.0 has many improvements, such as a new metacity-theme and dark theme, blue accent in the comboboxes,...
 
