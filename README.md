@@ -1,6 +1,12 @@
 # McOS-Mint-Cinnamon-Edition
 A specially design version of McOS for the **Linux Mint Cinnamon 19.**
 
+##new:
+
+Version 2.0 has many improvements, such as a new metacity-theme and dark theme, blue accent in the comboboxes,...
+
+This should also work in any distro with cinnamon-version. (This is developed in Manjaro Cinnamon)
+
 This is a totally re-engineered version of [McOS-MJV](https://www.opendesktop.org/p/1241688/) for the Linux Mint Cinnamon 19 desktop. 
 
 Since it finally supports gtk 3.20+ (hello, we have been here for a few years already?) I thought I could give it a shot.
@@ -27,4 +33,4 @@ Well there are small issues that needs to be addressed, but for a first draft it
 
 This theme is also provided in [Gnome-look.org](https://www.opendesktop.org/p/1247470/)
 
-![s](https://cn.pling.com/img/a/7/3/7/249b4b19d06a765b6e541131122c366cc63a.jpg)
+![s](https://cn.opendesktop.org/img/4/6/2/c/c8d712b27bf7b95cc75544bf22295e15561b.jpg)
